@@ -1,0 +1,54 @@
+
+2009-04-16 09:20:36.734000
+100 runs
+100 random seeds used from random_seeds_100.txt
+Offense AI - white win pct = 32.00
+Offense AI - white average number of turns to win = 25.41
+Defense AI - black win pct = 44.00
+Defense AI - black average number of turns to win = 40.00
+Draw pct = 24.00
+
+2009-04-16 10:13:00.969000
+100 runs
+100 random seeds used from random_seeds_100.txt
+Defense AI - white win pct = 21.00
+Defense AI - white average number of turns to win = 13.49
+Offense AI - black win pct = 47.00
+Offense AI - black average number of turns to win = 35.91
+Draw pct = 32.00
+
+2009-04-16 10:50:29.656000
+100 runs
+100 random seeds used from random_seeds_100.txt
+Defense AI - white win pct = 32.00
+Defense AI - white average number of turns to win = 25.41
+Defense AI - black win pct = 44.00
+Defense AI - black average number of turns to win = 40.00
+Draw pct = 24.00
+
+2009-04-16 11:54:50.890000
+100 runs
+100 random seeds used from random_seeds_100.txt
+Offense AI - white win pct = 21.00
+Offense AI - white average number of turns to win = 13.49
+Offense AI - black win pct = 47.00
+Offense AI - black average number of turns to win = 35.91
+Draw pct = 32.00
+
+2009-04-16 12:08:29.422000
+100 runs
+100 random seeds used from random_seeds_100.txt
+Random AI - white win pct = 0.00
+Random AI - white average number of turns to win = 0.00
+Defense AI - black win pct = 78.00
+Defense AI - black average number of turns to win = 37.97
+Draw pct = 22.00
+
+2009-04-16 12:20:02
+100 runs
+100 random seeds used from random_seeds_100.txt
+Random AI - white win pct = 0.00
+Random AI - white average number of turns to win = 0.00
+Offense AI - black win pct = 81.00
+Offense AI - black average number of turns to win = 42.26
+Draw pct = 19.00
